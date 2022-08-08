@@ -1,4 +1,4 @@
-module github.com/yanue/starkex
+module github.com/pr0fg/starkex
 
 go 1.17
 
